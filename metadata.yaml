@@ -1,0 +1,40 @@
+_repo: Six-Frightened-Men_65446
+_version: 0.0.1
+alternative_title: 6 Frightened Men
+contributor:
+  dubious_author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garret, Randall
+    - Garrett, Gordon Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: https://en.wikipedia.org/wiki/Randall_Garrett
+creator:
+  author:
+    agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
+description: Magazine credits Randall Garrett, but the Internet Speculative Fiction
+  Database says actually by Robert Silverberg.
+gutenberg_issued: '2021-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Six Frightened Men
+url: http://www.gutenberg.org/ebooks/65446
