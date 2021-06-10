@@ -1,5 +1,5 @@
 _repo: Six-Frightened-Men_65446
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 6 Frightened Men
 contributor:
   dubious_author:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '25267'
     url: http://www.gutenberg.org/2009/agents/25267
     wikipedia: https://en.wikipedia.org/wiki/Randall_Garrett
+covers:
+- cover_type: archival
+  image_path: 65446-h/images/cover.jpg
 creator:
   author:
     agent_name: Silverberg, Robert
@@ -21,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
 description: Magazine credits Randall Garrett, but the Internet Speculative Fiction
   Database says actually by Robert Silverberg.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65446#Six-Frightened-Men
 gutenberg_issued: '2021-05-26'
 gutenberg_type: Text
 identifiers:
